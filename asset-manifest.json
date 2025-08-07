@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/property-dashboard-v1/static/css/main.e6c13ad2.css",
+    "main.js": "/property-dashboard-v1/static/js/main.aeaf9b0e.js",
+    "index.html": "/property-dashboard-v1/index.html",
+    "main.e6c13ad2.css.map": "/property-dashboard-v1/static/css/main.e6c13ad2.css.map",
+    "main.aeaf9b0e.js.map": "/property-dashboard-v1/static/js/main.aeaf9b0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.aeaf9b0e.js"
+  ]
+}
